@@ -1,2 +1,5 @@
-a = 99
-print(a)
+
+
+age = 99
+print(age)
+
